@@ -5,20 +5,22 @@ plugins {
 }
 
 group = "jasmine.jragon"
-version = "1.0-SNAPSHOT"
+version = "1.0"
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
+    implementation("org.json:json:20220320")
+
     testImplementation(kotlin("test"))
 }
 
 tasks.test {
-    useJUnitPlatform()
+    useTestNG()
 }
 
 tasks.withType<KotlinCompile> {
-    kotlinOptions.jvmTarget = "1.8"
+    kotlinOptions.jvmTarget = "17"
 }
