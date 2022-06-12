@@ -1,0 +1,5141 @@
+{
+  "cards": {
+    "_START OF IRONCLAD": null,
+    "Feed": {
+      "rank": "S+",
+      "card_super_synergies": [
+        "Exhume"
+      ],
+      "card_synergies": [
+        "Blood For Blood",
+        "Bloodletting",
+        "Brutality",
+        "Combust",
+        "Demon Form",
+        "Flex",
+        "Heavy Blade",
+        "Hemokinesis",
+        "Immolate",
+        "Inflame",
+        "Limit Break",
+        "Offering",
+        "Rupture",
+        "Spot Weakness",
+        "Apparition",
+        "J.A.X.",
+        "Decay",
+        "Well-Laid Plan",
+        "Overclock",
+        "Reprogram",
+        "Static Discharge",
+        "Wish",
+        "Pain",
+        "Parasite",
+        "Regret"
+      ],
+      "relic_synergies": [
+        "Vajra",
+        "Blue Candle",
+        "Molten Egg",
+        "Runic Dodecahedron",
+        "Shuriken",
+        "Lizard Tail",
+        "Coffee Dripper",
+        "Sling of Courage",
+        "Self-Forming Clay",
+        "Girya",
+        "Magic Flower",
+        "Brimstone"
+      ],
+      "card_anti_synergies": [
+        "Signature Move",
+        "Ritual Dagger"
+      ],
+      "relic_anti_synergies": [
+        "Meat on the Bone",
+        "Snecko Eye",
+        "Mark of the Bloom"
+      ]
+    },
+    "Immolate": {
+      "rank": "S-",
+      "card_super_synergies": ["Blood For Blood", "Fire Breathing"],
+      "card_synergies": ["Bloodletting", "Double Tap", "Feed", "Reaper", "Rupture", "Second Wind", "Sever Soul", "Setup", "Echo Form", "Recycle", "Scrape", "Self Repair", "Swivel", "Bandage Up", "Bite", "Madness", "Purity", "Normality"],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Corruption": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Offering": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Battle Trance": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Demon Form": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Disarm": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Reaper": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Berserk": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Shrug It Off": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Uppercut": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Carnage": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Clothesline": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Fiend Fire": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Impervious": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Inflame": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Shockwave": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Spot Weakness": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Whirlwind": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bludgeon": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Body Slam": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Double Tap": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Flame Barrier": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ghostly Armor": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Seeing Red": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bloodletting": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Brutality": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Reckless Charge": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Warcry": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Anger": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Armaments": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Fire Breathing": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Headbutt": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Hemokinesis": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sever Soul": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Twin Strike": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Wild Strike": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bash": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Cleave": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Evolve": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Exhume": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Heavy Blade": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Infernal Blade": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Iron Wave": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Juggernaut": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Metallicize": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Pummel": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Rampage": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Thunderclap": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "True Grit": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Combust": {
+      "rank": "C-",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Havoc": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Intimidate": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Perfected Strike": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Pommel Strike": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Power Through": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sword Boomerang": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Barricade": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Blood For Blood": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dark Embrace": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dual Wield": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Rage": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Searing Blow": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Second Wind": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Burning Pact": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Feel No Pain": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Flex": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Limit Break": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Clash": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dropkick": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Entrench": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Rupture": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sentinel": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "_START OF SILENT": null,
+    "Adrenaline": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Wraith Form": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Well-Laid Plans": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "After Image": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Noxious Fumes": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Backflip": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Envenom": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Footwork": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Malaise": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Piercing Wail": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Terror": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Alchemize": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Backstab": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Caltrops": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Catalyst": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Corpse Explosion": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dash": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Die Die Die": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Glass Knife": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Leg Sweep": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bouncing Flask": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bullet Time": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Cloak And Dagger": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Infinite Blades": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Predator": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Skewer": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Survivor": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Tools Of The Trade": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "A Thousand Cuts": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Burst": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Crippling Cloud": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dagger Spray": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dodge And Roll": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Neutralize": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Nightmare": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Quick Slash": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sucker Punch": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Unload": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Acrobatics": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "All-Out Attack": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Calculated Gamble": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dagger Throw": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Flying Knee": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Masterful Stab": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Poisoned Stab": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Slice": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Storm Of Steel": {
+      "rank": "B-",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bane": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Blade Dance": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Blur": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Deadly Poison": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Endless Agony": {
+      "rank": "C+",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Phantasmal Killer": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Riddle With Holes": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Deflect": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Escape Plan": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Expertise": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Finisher": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Prepared": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Choke": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Distraction": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Accuracy": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Doppelganger": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Flechettes": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Outmaneuver": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Heel Hook": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Setup": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Reflex": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Tactician": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Concentrate": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Eviscerate": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sneaky Strike": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Grand Finale": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "_START OF DEFECT": null,
+    "Seek": {
+      "rank": "S",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Echo Form": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Biased Cognition": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Self Repair": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Boot Sequence": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Chill": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Coolheaded": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Streamline": {
+      "rank": "A-",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Defragment": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Glacier": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Hologram": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Machine Learning": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Reboot": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Reinforced Body": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Static Discharge": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Steam Barrier": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "TURBO": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Electrodynamics": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Creative AI": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "FTL": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Multi-Cast": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Barrage": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Beam Cell": {
+      "rank": "B-",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Buffer": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Capacitor": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Cold Snap": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Charge Battery": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dualcast": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Fission": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Fusion": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Go For The Eyes": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Hello World": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Hyperbeam": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Loop": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Rainbow": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Rip And Tear": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Equilibrium": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Core Surge": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Auto Shields": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ball Lightning": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Consume": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Double Energy": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Leap": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Melter": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Overclock": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Rebound": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Skim": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Stack": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Tempest": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Compile Driver": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "All For One": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Claw": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Doom And Gloom": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Recycle": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sunder": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sweeping Beam": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Chaos": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Genetic Algorithm": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bullseye": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Recursion": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Zap": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Aggregate": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Darkness": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Scrape": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "White Noise": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Force Field": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Amplify": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Reprogram": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Thunder Strike": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Blizzard": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Heatsinks": {
+      "rank": "E+",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Storm": {
+      "rank": "E",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Meteor Strike": {
+      "rank": "F+",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "_START OF WATCHER": null,
+    "Blasphemy": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Spirit Shield": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Lesson Learned": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Foresight": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Vault": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Cut Through Fate": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Establishment": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Protect": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ragnarok": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Scrawl": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Talk To The Hand": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Tantrum": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Windmill Strike": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Conclude": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Fear No Evil": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Flurry Of Blows": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Inner Peace": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Meditate": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sands Of Time": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Deceive Reality": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Devotion": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Empty Mind": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Fasting": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Judgment": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Like Water": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Mental Fortress": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Nirvana": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Reach Heaven": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Tranquility": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Wallop": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Wheel Kick": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Battle Hymn": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Consecrate": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Crescendo": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Crush Joint": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Deus Ex Machina": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Empty Fist": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Evaluate": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Master Reality": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sash Whip": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Simmering Fury": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Third Eye": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Wish": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bowling Bash": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Flying Sleeves": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Halt": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Omniscience": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Prostrate": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Study": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Swivel": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Weave": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Carve Reality": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Deva Form": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Empty Body": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Eruption": {
+      "rank": "C",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Rushdown": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sanctity": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Vigilance": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Brilliance": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Follow-Up": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Just Lucky": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Wave Of The Hand": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Worship": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Wreath Of Flame": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Collect": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Conjure Blade": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Foreign Influence": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Pray": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Alpha": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Indignation": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Perseverance": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Pressure Points": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Signature Move": {
+      "rank": "E",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "_START OF COLORLESS": null,
+    "Through Violence": {
+      "rank": "S+",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Omega": {
+      "rank": "S",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bandage Up": {
+      "rank": "S-",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Insight": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Apotheosis": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dramatic Entrance": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Master Of Strategy": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Secret Technique": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Secret Weapon": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Miracle": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Safety": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dark Shackles": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Magnetism": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Apparition": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Smite": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bite": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "J.A.X.": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Discovery": {
+      "rank": "B+",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sadistic Nature": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Shiv": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Thinking Ahead": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Hand Of Greed": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Panacea": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Chrysalis": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Violence": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Blind": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Flash Of Steel": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Good Instincts": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Transmutation": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Trip": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ritual Dagger": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Panic Button": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Finesse": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Jack Of All Trades": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Madness": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Mind Blast": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Swift Strike": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Impatience": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Forethought": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Enlightenment": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Panache": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "The Bomb": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Deep Breath": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Mayhem": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Purity": {
+      "rank": "",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Beta": {
+      "rank": "E",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Strike": {
+      "rank": "F",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Defend": {
+      "rank": "F",
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    }
+  },
+  "relics": {
+    "Anchor": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ancient Tea Set": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Art of War": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bag of Marbles": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bag of Preparation": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Blood Vial": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bronze Scales": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dream Catcher": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Happy Flower": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Juzu Bracelet": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Lantern": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Oddly Smooth Stone": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Omamori": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Orichalcum": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Pen Nib": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Prayer Wheel": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Regal Pillow": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Singing Bowl": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Strawberry": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Tiny Chest": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Vajra": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "War Paint": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Whetstone": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Blue Candle": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bottled Flame": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bottled Lightning": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bottled Tornado": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Centennial Puzzle": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Darkstone Periapt": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Frozen Egg": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Gremlin Horn": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Kunai": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Letter Opener": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Matryoshka": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Meat on the Bone": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Mercury Hourglass": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Molten Egg": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Mummified Hand": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ornamental Fan": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Pantograph": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Pear": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Runic Dodecahedron": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Shuriken": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Smiling Mask": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "The Courier": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Toolbox": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Toxic Egg": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bird-Faced Urn": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Calipers": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dead Branch": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Du-Vu Doll": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Frozen Eye": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Gambling Chip": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ginger": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ice Cream": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Mango": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Old Coin": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Peace Pipe": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Shovel": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sundial": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Thread and Needle": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Torii": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Unceasing Top": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Astrolabe": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Black Star": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Calling Bell": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Cursed Key": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ectoplasm": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Eternal Feather": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Lizard Tail": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Orrery": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Pandora's Box": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Philosopher's Stone": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Question Card": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Runic Dome": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Runic Pyramid": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Snecko Eye": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sozu": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Tiny House": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Velvet Choker": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "White Beast Statue": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Bloody Idol": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Enchiridion": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Golden Idol": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Necronomicon": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Neow's Lament": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Nloth's Gift": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Odd Mushroom": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Red Mask": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Spirit Poop": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Cauldron": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Lee's Waffle": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Medical Kit": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Membership Card": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Strange Spoon": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Toy Ornithopter": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Potion Belt": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Turnip": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "The Boot": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Busted Crown": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Mark of the Bloom": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Fusion Hammer": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Coffee Dripper": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Empty Cage": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Incense Burner": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ssserpent Head": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Face of Cleric": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "N'Loth's Hungry Face": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Gremlin Visage": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Cultist Headpiece": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Hand Drill": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Orange Pellets": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sling of Courage": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Meal Ticket": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Maw Bank": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Stone Calendar": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Nunchaku": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Chemical X": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Clockwork's Souvenir": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Dolly's Mirror": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "The Abacus": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Pocketwatch": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Cracked Core": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Data Disk": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Gold-Plated Cables": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Symbiotic Virus": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Emotion Chip": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Inserter": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Nuclear Battery": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Runic Capacitor": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Frozen Core": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Burning Blood": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Paper Phrog": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Runic Cube": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Self-Forming Clay": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Champion Belt": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Charon's Ashes": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Girya": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Magic Flower": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Red Skull": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Black Blood": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Mark of Pain": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ring of the Snake": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Snecko Skull": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ninja Scroll": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Paper Krane": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Tough Bandages": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "The Specimen": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Tingsha": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ring of the Serpent": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Twisted Funnel": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Wrist Blade": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Hovering Kite": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Prue Water": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Holy Water": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Duality": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Damaru": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Teardrop Locket": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Cloak Clasp": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Golder Eye": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Violet Lotus": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Melange": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ceramic Fish": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Horn Cleat": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Captain's Wheel": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Tungsten Rod": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Brimstone": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Ink Bottle": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Sacred Bark": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Akabeko": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Strike Dummy": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Slaver's Collar": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Preserved Insect": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Fossilized Helix": {
+      "rank": {
+        "IRONCLAD": "",
+        "THE_SILENT": "",
+        "DEFECT": "",
+        "WATCHER": ""
+      },
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    }
+  },
+  "curses": {
+    "Ascender's Bane": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Clumsy": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Decay": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Doubt": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Injury": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Necronomicurse": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Normality": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Pain": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Parasite": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Regret": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Writhe": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Shame": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Pride": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    },
+    "Curse Of The Bell": {
+      "card_super_synergies": [],
+      "card_synergies": [],
+      "relic_synergies": [],
+      "card_anti_synergies": [],
+      "relic_anti_synergies": []
+    }
+  }
+}
